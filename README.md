@@ -6,3 +6,10 @@
 ## 🛠️ Technologie
 - **Język programowania:** Java
 - **Inne technologie:** Spring Boot, Maven
+
+## Wymagania
+
+- **Java 17+**
+- **Maven 3+**
+- **Przeglądarka internetowa**
+
